@@ -1,4 +1,4 @@
-data: {
+{
     "total": 100,
     "pending": 55,
     "approved": 35,
