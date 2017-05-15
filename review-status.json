@@ -1,0 +1,6 @@
+{
+    total: 100,
+    pending: 55,
+    approved: 35,
+    rejected: 10
+}
